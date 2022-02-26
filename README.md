@@ -1,5 +1,9 @@
 # CBN-Rice-Mod
 
+
+https://user-images.githubusercontent.com/38378312/155838745-cd635761-1c3b-4ce2-8370-2ace4ee407ea.gif
+
+
 Add croppable rice called Indica Massachusettstica, which is fictional plant that can be grown in climates of New England.
 
 includes rice grain, simple recipes for make dried rice and rice seed. 
